@@ -1,6 +1,6 @@
 # Poetry Classification
 
-AI that can distinguish a line of poetry from two poets. 
+Classifier trained to distinguish a line of poetry from two poets. 
 
 It uses:
 * Embeddings
